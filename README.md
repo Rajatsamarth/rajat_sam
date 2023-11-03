@@ -1,2 +1,2 @@
 # rajat_sam
-setting up git
+setting up git(1)
